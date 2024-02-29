@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "hey",
+      "answer": "hello, How are you!"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "My Name is Chat_bot :)"
+    },
+    {
+      "question": "how can you help me?",
+      "answer": "I am here to Guide you related to Acharya Institutes....."
+    },
+    {
+      "question": "how many Courses does Acharya offer?",
+      "answer": "30 Courses are offered by Acharya Institutes, Bangalore."
+    },
+    {
+      "question": "can you tell me which are the courses?",
+      "answer": "Acharya Institutes offers a wide range of courses in various fields such as engineering, MBA, MCA, pharmacy, architecture, design, physiotherapy, nursing, polytechnic, allied health and graduate studies."
+    },
+    {
+      "question": "totally how many courses are there in acharya institutes?",
+      "answer": "there are totally 30 courses offered by acharya"
+    },
+    {
+      "question": "can you please tell me your age?",
+      "answer": "i am a chat_bot i dont have any age....."
+    },
+    {
+      "question": "where are you from?",
+      "answer": "our campus is Based in \"Bangalore\"."
+    },
+    {
+      "question": "do you know about rotaract club?",
+      "answer": "it is a social welfare club."
+    },
+    {
+      "question": "there is one more course that acharya institutes offers. that is acharya institutie of allied health sciences",
+      "answer": "The name of the course is Acharya Institute of Allied health sciences"
+    },
+    {
+      "question": "hi",
+      "answer": "hello how are you?"
+    }
+  ]
+}
